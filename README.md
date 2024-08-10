@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning **Rust**
 
 ### 🚀 Projects:
-- **[Project Name 1](https://github.com/shunm-999/your-project-1)**: Brief description of the project.
-- **[Project Name 2](https://github.com/shunm-999/your-project-2)**: Brief description of the project.
+- **[GeminiChat](https://github.com/shunm-999/GeminiChat)**: AIChat is an Android application that leverages the Gemini Pro API to provide intelligent conversational capabilities similar to ChatGPT.
+- **[KeepMemoAndroid](https://github.com/shunm-999/KeepMemoAndroid)**: Memo application.
+- **[TalkHub](https://github.com/shunm-999/TalkHub)**: Chat API created by Rust.
 
 ### 📝 Blog Posts:
 - [Blog Post Title 1](https://your-blog-link.com)
